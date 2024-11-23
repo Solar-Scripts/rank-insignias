@@ -20,4 +20,4 @@ Commissioner
 <br>
 <br>
 
-<i>You may redistribute/modify these images product as you wish without permission. We politely request that you credit the original creator<br>in any modified redistributions. This product is provided as is with no warranty or guarantee.</i>
+<i>You may redistribute/modify these images product as you wish without permission. We politely request that you credit the original creator in any modified redistributions. This product is provided as is with no warranty or guarantee.</i>
